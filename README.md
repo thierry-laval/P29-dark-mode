@@ -31,7 +31,7 @@ A quoi ça sert ?
 * Ergonomiquement parlant, certaines couleurs se voient mieux sur un fond noir et donc amélioration de la lisibilité.
 
 
-* [Voir la page en ligne](https://thierry-laval.github.io/P17-mode_dark_light/)
+* [Voir la page en ligne](https://thierry-laval.github.io/P29-dark-mode/)
 
 ***
 
