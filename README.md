@@ -12,7 +12,7 @@
 
 ### 📎 Projet 29 - Création d'un mode Dark/Night en css/js
 
-![left 100%](dark_light.jpg?raw=true)
+![left 100%](img/dark_light.jpg?raw=true)
 
 _`Début du projet le 11/04/2022`_
 
